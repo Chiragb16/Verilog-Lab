@@ -1,4 +1,4 @@
-module cmosinv(x,f);
+module cmos(x,f);
 input x;
 output f;
 supply1 vdd;
